@@ -68,8 +68,3 @@ using the basic `npm` commands `npm install` and `npm start`.
 
 1. README.md (this file)
 3. package.json
-
-## Questions etc.
-
-I am always happy to answer any questions you may have. Please email me at
-<gideon@converge.io> if you need anything clarified.

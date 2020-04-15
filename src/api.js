@@ -79,8 +79,8 @@ async function main () {
   app.use(express.json())
   app.use(router)
 
-  app.listen(3000, () => {
-    console.log('Listening on http://localhost:3000')
+  app.listen(4000, () => {
+    console.log('Listening on http://localhost:4000')
   })
 }
 

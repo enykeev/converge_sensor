@@ -3,7 +3,7 @@ const expect = require('chai').expect
 
 describe('API', () => {
   const client = axios.create({
-    baseURL: 'http://localhost:3000'
+    baseURL: 'http://localhost:4000'
   })
 
   describe('POST /data', () => {

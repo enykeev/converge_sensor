@@ -1,5 +1,5 @@
 apps:
-  - name: api
+  - name: converge_api
     script: src/api.js
     instances: 1
     autorestart: true
