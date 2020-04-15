@@ -1,0 +1,9 @@
+apps:
+  - name: api
+    script: src/api.js
+    instances: 1
+    autorestart: true
+    restart_delay: 10000
+    watch:
+      - src
+    max_memory_restart: 1G
